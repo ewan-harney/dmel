@@ -10,7 +10,7 @@ We carried out laboratory experiments to measure gene expression and chromatin a
 The finding of these experiments are detailed in the manuscript on bioRxiv:
 
 ## Description of Data
-The dataset consists of 11 directories. Within each directory is a separate ##_README.txt with more information about the files and subdirectories within. Below is a brief description of the 10 directories:
+The dataset consists of 11 directories. Within each directory is a separate README.md with some more information about the files and subdirectories within. Below is a brief description of the 11 directories:
 
 * **01_kallisto** : 24 subdirectories, one for each RNA-seq sample. Within each are the kallisto results, including the abundance.tsv file, which is used for DESeq2 analysis.
 * **02_nfcoreatac** : 1 subdirectory containing peaks files for positions of open chromatin. The .bam files used by interpareto were too large to be included in this data deposit.

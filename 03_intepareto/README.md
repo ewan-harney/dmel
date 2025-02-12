@@ -1,5 +1,5 @@
 # 03_intepareto
-Within this 03_interchromate_intepareto folder are 8 Rdata objects, one for each pairwise comparison:
+Within this 03_intepareto folder are 8 Rdata objects, one for each pairwise comparison:
 
 These correspond to four experimental comparisons:
 - Akaa / heat shock vs control / F3
