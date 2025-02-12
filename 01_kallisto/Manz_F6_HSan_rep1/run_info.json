@@ -1,0 +1,13 @@
+{
+	"n_targets": 30799,
+	"n_bootstraps": 100,
+	"n_processed": 38582910,
+	"n_pseudoaligned": 37107905,
+	"n_unique": 10106758,
+	"p_pseudoaligned": 96.2,
+	"p_unique": 26.2,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Thu Mar  2 12:49:41 2023",
+	"call": "kallisto quant -i /scratch/lab_jgonzalez/eharney/RNA-kallisto/Dmel_FB_r6_v46_transcript.idx -o /scratch/lab_jgonzalez/eharney/RNA-kallisto/results/Manz_F6_HSan_rep1 -b 100 /scratch/lab_jgonzalez/eharney/RNA-kallisto/fastq/Q2_T1R_05447AAD_AGATACTA-GGTTAATA_R1_001.fastq.gz /scratch/lab_jgonzalez/eharney/RNA-kallisto/fastq/Q2_T1R_05447AAD_AGATACTA-GGTTAATA_R2_001.fastq.gz"
+}

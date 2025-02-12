@@ -1,0 +1,13 @@
+{
+	"n_targets": 30799,
+	"n_bootstraps": 100,
+	"n_processed": 30352581,
+	"n_pseudoaligned": 29205567,
+	"n_unique": 7982703,
+	"p_pseudoaligned": 96.2,
+	"p_unique": 26.3,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Thu Mar  2 12:49:31 2023",
+	"call": "kallisto quant -i /scratch/lab_jgonzalez/eharney/RNA-kallisto/Dmel_FB_r6_v46_transcript.idx -o /scratch/lab_jgonzalez/eharney/RNA-kallisto/results/Akaa_F6_Ctrl_rep1 -b 100 /scratch/lab_jgonzalez/eharney/RNA-kallisto/fastq/Q1_C1R_05441AAD_TTCTGGTT-GCGCCGTT_R1_001.fastq.gz /scratch/lab_jgonzalez/eharney/RNA-kallisto/fastq/Q1_C1R_05441AAD_TTCTGGTT-GCGCCGTT_R2_001.fastq.gz"
+}

@@ -1,0 +1,2 @@
+"V6"	"V1"	"V2.x"	"V3.x"	"V4"	"V8"	"V2.y"	"insertion"	"V3.y"	"RNAseq.log2FoldChange.y.x"	"F6A_DE"	"RNAseq.log2FoldChange.y.y"	"F6M_DE"
+"1"	"jockey"	"chrx"	5373780	5373956	"denovo"	"FBgn0029761"	"SK"	"intronic"	"+"	0.783011796741764	"Unique"	-0.147215984681197	"Not_DE"

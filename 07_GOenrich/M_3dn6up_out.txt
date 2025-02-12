@@ -1,0 +1,5 @@
+"ID"	"Description"	"GeneRatio"	"BgRatio"	"pvalue"	"p.adjust"	"qvalue"	"geneID"	"Count"	"cluster"	"parent"	"parentSimScore"	"score"	"size"	"term"	"parentTerm"
+"8"	"GO:0019321"	"pentose metabolic process"	"1/4"	"11/9997"	0.00439471973763805	0.0387451746101516	0.0165342139161387	"CG3609"	1	1	"GO:0019321"	1	1.41178237756221	1	"pentose metabolic process"	"pentose metabolic process"
+"5"	"GO:0006032"	"chitin catabolic process"	"1/4"	"16/9997"	0.00638752394260744	0.0387451746101516	0.0165342139161387	"Idgf6"	1	2	"GO:0006032"	1	1.41178237756221	22	"chitin catabolic process"	"chitin catabolic process"
+"7"	"GO:0018990"	"ecdysis, chitin-based cuticle"	"1/4"	"19/9997"	0.0075817695872199	0.0387451746101516	0.0165342139161387	"Idgf6"	1	3	"GO:0018990"	1	1.41178237756221	23	"ecdysis, chitin-based cuticle"	"ecdysis, chitin-based cuticle"
+"1"	"GO:0003014"	"renal system process"	"1/4"	"27/9997"	0.0107611617148122	0.0398162983448052	0.0169913079707562	"Nha1"	1	4	"GO:0003014"	0.999	1.39993911806931	5	"renal system process"	"renal system process"

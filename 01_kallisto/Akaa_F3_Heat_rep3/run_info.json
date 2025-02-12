@@ -1,0 +1,13 @@
+{
+	"n_targets": 30799,
+	"n_bootstraps": 100,
+	"n_processed": 45423810,
+	"n_pseudoaligned": 41259813,
+	"n_unique": 10773367,
+	"p_pseudoaligned": 90.8,
+	"p_unique": 23.7,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Thu Mar  2 12:49:31 2023",
+	"call": "kallisto quant -i /scratch/lab_jgonzalez/eharney/RNA-kallisto/Dmel_FB_r6_v46_transcript.idx -o /scratch/lab_jgonzalez/eharney/RNA-kallisto/results/Akaa_F3_Heat_rep3 -b 100 /scratch/lab_jgonzalez/eharney/RNA-kallisto/fastq/P1_T3_03641AAD_concat_R1_001.fastq.gz /scratch/lab_jgonzalez/eharney/RNA-kallisto/fastq/P1_T3_03641AAD_concat_R2_001.fastq.gz"
+}

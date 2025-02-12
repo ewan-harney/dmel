@@ -1,0 +1,2 @@
+"ID"	"Description"	"GeneRatio"	"BgRatio"	"pvalue"	"p.adjust"	"qvalue"	"geneID"	"Count"
+"GO:0045448"	"GO:0045448"	"mitotic cell cycle, embryonic"	"3/19"	"40/9997"	5.50107536997142e-05	0.0215092046965883	0.0188773744274809	"ph-d/CycB3/MCPH1"	3

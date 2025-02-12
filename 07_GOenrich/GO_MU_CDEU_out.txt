@@ -1,0 +1,4 @@
+"ID"	"Description"	"GeneRatio"	"BgRatio"	"pvalue"	"p.adjust"	"qvalue"	"geneID"	"Count"	"cluster"	"parent"	"parentSimScore"	"score"	"size"	"term"	"parentTerm"
+"2"	"GO:0007099"	"centriole replication"	"4/75"	"30/9997"	6.90753160538972e-05	0.0139894308928733	0.0129690956981754	"stg/ana2/Sas-6/ana3"	4	1	"GO:0007099"	0.999	1.85419995277851	34	"centriole replication"	"centriole replication"
+"3"	"GO:0031507"	"heterochromatin formation"	"6/75"	"93/9997"	6.62077206585734e-05	0.0139894308928733	0.0129690956981754	"Parg/HP1b/escl/phol/Spps/Su(var)3-9"	6	2	"GO:0031507"	0.997	1.85419995277851	91	"heterochromatin formation"	"heterochromatin formation"
+"1"	"GO:0006259"	"DNA metabolic process"	"10/75"	"339/9997"	0.000205423575936768	0.0236046626161934	0.0218830294625143	"CycE/Dref/Parg/CG14814/kin17/Rat1/mip120/Ctf4/RnpS1/Su(var)3-9"	10	3	"GO:0006259"	0.983	1.62700220260289	0	"DNA metabolic process"	"DNA metabolic process"

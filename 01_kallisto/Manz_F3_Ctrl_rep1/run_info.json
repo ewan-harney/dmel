@@ -1,0 +1,13 @@
+{
+	"n_targets": 30799,
+	"n_bootstraps": 100,
+	"n_processed": 45882491,
+	"n_pseudoaligned": 42692981,
+	"n_unique": 11521059,
+	"p_pseudoaligned": 93.0,
+	"p_unique": 25.1,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Thu Mar  2 12:49:31 2023",
+	"call": "kallisto quant -i /scratch/lab_jgonzalez/eharney/RNA-kallisto/Dmel_FB_r6_v46_transcript.idx -o /scratch/lab_jgonzalez/eharney/RNA-kallisto/results/Manz_F3_Ctrl_rep1 -b 100 /scratch/lab_jgonzalez/eharney/RNA-kallisto/fastq/P2_C1_03642AAD_concat_R1_001.fastq.gz /scratch/lab_jgonzalez/eharney/RNA-kallisto/fastq/P2_C1_03642AAD_concat_R2_001.fastq.gz"
+}

@@ -1,0 +1,3 @@
+"ID"	"Description"	"GeneRatio"	"BgRatio"	"pvalue"	"p.adjust"	"qvalue"	"geneID"	"Count"	"cluster"	"parent"	"parentSimScore"	"score"	"size"	"term"	"parentTerm"
+"2"	"GO:0016318"	"ommatidial rotation"	"4/72"	"28/9997"	4.44369535882434e-05	0.0399524454152974	0.0338918178980712	"ec/peb/pk/Tak1"	4	1	"GO:0016318"	0.999	1.39845663317436	30	"ommatidial rotation"	"ommatidial rotation"
+"3"	"GO:0098742"	"cell-cell adhesion via plasma-membrane adhesion molecules"	"5/72"	"71/9997"	0.000151546193629302	0.0463226198526901	0.039295662137563	"ed/Fas2/peb/mew/scb"	5	2	"GO:0098742"	0.998	1.33420688634039	1	"cell-cell adhesion via plasma-membrane adhesion molecules"	"cell-cell adhesion via plasma-membrane adhesion molecules"
